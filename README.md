@@ -1,2 +1,2 @@
 # MicrocontrollerDevelopment
-Assorted Arduino and other Atmel microcontroller projects
+Assorted Atmel and other microcontroller projects
